@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<p align="center">
+    <img src="https://enihmv5bm33qwsq.m.pipedream.net/?username=vkrajak39">
+    <br></br>
+    <img src="https://serverless-apis.vercel.app/api/wakatime_code_stats" /><br></br>
+    Liked the above stats? Checkout my <a href="https://github.com/vkrajak39/serverless-apis">repo<a/>.
+    <br></br>
+    <img src="https://github-readme-stats.vercel.app/api?username=vkrajak39&&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+    </p>
