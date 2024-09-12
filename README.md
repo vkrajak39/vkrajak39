@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img src="https://enihmv5bm33qwsq.m.pipedream.net/?username=vkrajak39">
+  
     <br></br>
     <img src="https://serverless-apis.vercel.app/api/wakatime_code_stats" /><br></br>
     Liked the above stats? Checkout my <a href="https://github.com/vkrajak39/serverless-apis">repo<a/>.
