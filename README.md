@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkrajak39&label=Profile%20views&color=0e75b6&style=flat" alt="vkrajak39" /> </p>
 
+<!-- 
 - 👨‍💻 All of my projects are available at [https://vkrajak39.netlify.app/](https://vkrajak39.netlify.app/)
-
+-->
 - 📫 How to reach me **vkrajak39@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1KcCALZ3wQmpQ7bcDM0CCOxABTLVJc9Q7?usp=sharing](https://drive.google.com/drive/folders/1KcCALZ3wQmpQ7bcDM0CCOxABTLVJc9Q7?usp=sharing)
