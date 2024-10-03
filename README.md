@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Vineet Your Friendly Neighborhood Software Engineer</h1>
-<h3 align="center">A passionate FullStack developer from West Bengal, India.</h3>
+<h3 align="center">A passionate FullStack developer from Kolkata, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkrajak39&label=Profile%20views&color=0e75b6&style=flat" alt="vkrajak39" /> </p>
 
 <!-- 
 - 👨‍💻 All of my projects are available at [https://vkrajak39.netlify.app/](https://vkrajak39.netlify.app/)
 -->
+- 🌱 I’m currently learning ... **Nodejs**
 - 📫 How to reach me **vkrajak39@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1KcCALZ3wQmpQ7bcDM0CCOxABTLVJc9Q7?usp=sharing](https://drive.google.com/drive/folders/1KcCALZ3wQmpQ7bcDM0CCOxABTLVJc9Q7?usp=sharing)
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/vkrajak39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/vkrajak39" height="30" width="40" /></a>
+<a href="https://codepen.io/vkrajak39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/vkrajak39" height="30" width="40" /></a>
 <a href="https://twitter.com/vineet3999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vineet3999" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vineet-kumar-rajak-321a961bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineet-kumar-rajak-321a961bb/" height="30" width="40" /></a>
 <a href="https://fb.com/vineetkumar.rajak.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vineetkumar.rajak.77" height="30" width="40" /></a>
