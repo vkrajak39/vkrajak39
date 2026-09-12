@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1KcCALZ3wQmpQ7bcDM0CCOxABTLVJc9Q7?usp=sharing](https://drive.google.com/drive/folders/1KcCALZ3wQmpQ7bcDM0CCOxABTLVJc9Q7?usp=sharing)
 
-- ⚡ Fun fact **Nothing is funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
