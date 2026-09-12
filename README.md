@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Vineet Your Friendly Neighborhood Software Engineer</h1>
-<h3 align="center">A passionate FullStack developer from Kolkata, India</h3>
+<h1 align="center">Hi 👋, I'm Vineet </h1>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkrajak39&label=Profile%20views&color=0e75b6&style=flat" alt="vkrajak39" /> </p>
 
